@@ -1,0 +1,7 @@
+- Slider Revoltion: This is for your moving works (video)
+
+
+Nesting:
+Page -> Exhibitions (Portfolio) -> Still (Portfolio) or 	-> Gallery Grid
+								   Moving (Portfolio) 		-> Revolution Slider
+									
